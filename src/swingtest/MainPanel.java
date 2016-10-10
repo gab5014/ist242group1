@@ -23,9 +23,9 @@ public class MainPanel extends JPanel{
         greenButton.setBackground(Color.green);
         add(greenButton);
         
-        JButton nos5299_NoelSterling = new JButton("Plain Button");//Noel this buttons labe should be your name, not "Plain Button"
+        JButton nos5299_NoelSterling = new JButton("Noel Sterling Jr");//Noel this buttons labe should be your name, not "Plain Button"
         add(nos5299_NoelSterling);
-        nos5299_NoelSterling.setBackground(Color.DARK_GRAY);
+        nos5299_NoelSterling.setBackground(Color.blue);
         
         JButton garrettButton = new JButton("Garrett");
         garrettButton.setBackground(Color.ORANGE);
